@@ -8,7 +8,7 @@ print(
     f"Olá {nome} você tem {idade} anos, sua altura é: {altura:.2f}"
 )  # arredondando numero
 
-# Segunda forma formatar string com variaveis usadno format
+# Segunda forma formatar string com variaveis usando format
 
 print("Olá {} você tem {} anos, sua altura é: {:.2f}".format(
     nome, idade, altura
