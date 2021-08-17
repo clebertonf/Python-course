@@ -8,5 +8,8 @@ print('Tudo', 'otimo', '?')
 
 print('Cleberton', 'Francisco', sep='-')  # separador sera -
 
-print('Esta', 'Tudo', 'bem? ', end='...')  # adiciona algo no final da string
+print('Esta', 'Tudo', 'bem?', end='... \n')  # adiciona algo no final da string
+
+print('826', '231', '070', sep='.', end='-')  # Formatando CPF com print
+print('18')
 
