@@ -17,3 +17,4 @@ else:
 # Em python o while possui um else que é executado no final do laço
 # else nao e executado se a condição do while passar a ser falsa
 # só entra no else caso o laço inteiro for percorrido
+# caso você parar, quebrar o laço no meio com alguma condição, o else não será executado
