@@ -25,7 +25,12 @@ print(url[::-2])  # /bmcego.w (passso de 2 em 2 de tras para frente)
 
 print(url[0:10])  # www.google
 
+nova_string = url[4:10]
+print(nova_string)
 
 # Funções built-in
 
-print(url.replace('/', ''))
+print(url.replace('/', ''))  # troca um caracter por outro
+print(len(url))  # quantos caracteres possui a string
+
+# Built-in Functions¶: https://docs.python.org/3/library/functions.html
