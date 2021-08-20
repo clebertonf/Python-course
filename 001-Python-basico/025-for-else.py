@@ -10,3 +10,4 @@ else:
     print('Acabou laço')
 
 # else no for é executado apos o laço terminar, caso a condição do if seja false
+# caso o laço não seja parado, sempre o codigo chegara ao else
