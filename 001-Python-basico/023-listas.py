@@ -40,5 +40,22 @@ print(lista_3)
 # pop (remove o ultimo valor da lista)
 
 lista_4.pop()
-print(lista_4) # G removidp
+print(lista_4)  # G removido
+
+lista_5 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+print(lista_5)
+
+del(lista_5[0])
+del(lista_5[0:4])
+
+print(lista_5)
+
+# menor e maior numero da lista
+
+print(max(lista_5))  # maior numero
+print(min(lista_5))  # menor numero
+
+# + juntar duas listas
+
+print(lista_5 + lista_4)
 
