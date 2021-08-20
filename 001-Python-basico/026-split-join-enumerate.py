@@ -35,3 +35,6 @@ frase_montadada = ' '.join(frase_2)  # Sera usado o espaço para montar uma stri
 print(frase_montadada)
 
 # enumerate
+
+for indice, valor in enumerate(frase_2): #  enumera cada item na iteração
+    print(indice, valor)
