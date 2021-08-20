@@ -59,3 +59,7 @@ print(min(lista_5))  # menor numero
 
 print(lista_5 + lista_4)
 
+# range lista (list)
+
+print(f'lista {list(range(10))}')
+
